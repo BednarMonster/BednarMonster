@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BednarMonster
+- 👋 Hi, I’m @Bednar
 - 👀 I’m interested in gamedevelopment
 - 🌱 I’m currently learning Unreal Engine 5
 - 💞️ I’m looking to collaborate on games and webdev
